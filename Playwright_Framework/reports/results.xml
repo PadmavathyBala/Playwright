@@ -1,0 +1,34 @@
+<testsuites id="" name="" tests="5" failures="0" skipped="0" errors="0" time="14.395498">
+<testsuite name="web/TC_LoginValidation.spec.js" timestamp="2026-10-26T01:49:25.782Z" hostname="chromium" tests="5" failures="0" skipped="0" time="38.941" errors="0">
+<testcase name="TC_LoginValidationwithJSON_1" classname="web/TC_LoginValidation.spec.js" time="9.06">
+<system-out>
+<![CDATA[https://tutorialsninja.com/demo/
+]]>
+</system-out>
+</testcase>
+<testcase name="TC_LoginValidationwithJSON_2" classname="web/TC_LoginValidation.spec.js" time="8.574">
+<system-out>
+<![CDATA[https://tutorialsninja.com/demo/
+]]>
+</system-out>
+</testcase>
+<testcase name="TC_LoginValidationwithJSON_3" classname="web/TC_LoginValidation.spec.js" time="8.126">
+<system-out>
+<![CDATA[https://tutorialsninja.com/demo/
+]]>
+</system-out>
+</testcase>
+<testcase name="TC_LoginValidationwithJSON_4" classname="web/TC_LoginValidation.spec.js" time="8.208">
+<system-out>
+<![CDATA[https://tutorialsninja.com/demo/
+]]>
+</system-out>
+</testcase>
+<testcase name="TC_LoginValidationwithJSON_5" classname="web/TC_LoginValidation.spec.js" time="4.973">
+<system-out>
+<![CDATA[https://tutorialsninja.com/demo/
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
